@@ -1,0 +1,23 @@
+{
+    "audio_mode": "loopback",
+    "ai_provider": "demo",
+    "gemini_api_key": "",
+    "groq_api_key": "",
+    "openai_api_key": "",
+    "ollama_url": "http://localhost:11434",
+    "selected_model": {
+        "gemini": "gemini-3.8-flash",
+        "groq": "openai/gpt-oss-20b",
+        "openai": "gpt-4o-mini",
+        "ollama": "llama3.2"
+    },
+    "system_prompt_preset": "micro1_simulation_expert",
+    "custom_system_prompt": "",
+    "transparency": 0.75,
+    "stealth_mode": true,
+    "always_on_top": true,
+    "font_size": 13,
+    "silence_seconds": 2.0,
+    "energy_threshold": 150,
+    "window_geometry": "646x785+977+0"
+}
